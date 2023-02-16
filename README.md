@@ -1,4 +1,4 @@
-Hi 👋 My name is Meriton Aliu 
+Hi 👋 My name is Meriton
 =============================  
 Web Dev and Embedded Dev 
 ------------------------  
