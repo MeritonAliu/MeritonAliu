@@ -1,4 +1,4 @@
-Hi 👋 My name is Meriton Aliu =============================  Web Dev and Embedded Dev ------------------------  * 🌍  I'm based in Zürich * 🖥️  See my portfolio at [My Portfolio](http://meritonaliu.github.io/portfolio) * ✉️  You can contact me at [tonialiu03@gmail.com](mailto:tonialiu03@gmail.com) * 🧠  I'm learning Flutter
+Hi 👋 My name is Meriton Aliu =============================  Web Dev and Embedded Dev ------------------------  * 🌍  I'm based in Zürich * 🖥️  See my portfolio at [My Portfolio](http://meritonaliu.github.io/portfolio) * ✉️  You can contact me at [tonialiu03@gmail.com](mailto:tonialiu03@gmail.com) * 🧠  I'm learning Flutter
 
 ### Skills  
 
