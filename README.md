@@ -1,8 +1,8 @@
-Hi 👋 My name is Meriton
+Hi 👋 My name is Toni
 =============================  
 Web Dev and Embedded Dev 
 ------------------------  
-* 🌍  I'm based in Zürich 
+* 🌍  I'm based in Switzerland 
 * 🖥️  See my portfolio at [My Portfolio](http://meritonaliu.github.io/portfolio) 
 * ✉️  You can contact me at [tonialiu03@gmail.com](mailto:tonialiu03@gmail.com) 
 * 🧠  I'm learning Flutter
