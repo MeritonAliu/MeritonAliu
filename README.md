@@ -1,5 +1,7 @@
 # 💫 About Me:
-- Electronic Engineering<br>- Computer Science
+- Electronics
+- Web Dev
+- Embedded
 
 
 # 💻 Tech Stack:
