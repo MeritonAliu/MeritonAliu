@@ -7,7 +7,7 @@
 
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/meriton-aliu-44a595252/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"My projects:</h3>
 <p align="left">
 </p>
 
