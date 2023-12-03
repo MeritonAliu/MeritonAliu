@@ -8,7 +8,7 @@
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/meriton-aliu-44a595252/)
 
 <h3 align="left"My projects:</h3>
-<ul align="left">
+<ul>
   <il>
     efmcore
   </il>
