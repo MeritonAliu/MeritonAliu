@@ -9,6 +9,9 @@
 
 <h3 align="left"My projects:</h3>
 <p align="left">
+  - efmcore
+  - weatherio
+  - activfiler
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
