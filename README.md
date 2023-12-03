@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meritonaliu&label=Profile%20views&color=0e75b6&style=flat" alt="meritonaliu" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/MeritonAliu/](https://github.com/MeritonAliu/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/MeritonAliu/)
 
-- 📫 How to reach me **https://www.linkedin.com/in/meriton-aliu-44a595252/**
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/meriton-aliu-44a595252/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
