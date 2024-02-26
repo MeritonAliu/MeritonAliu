@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Meriotn Aliu and I am from Switzerland🇨🇭</h1>
+<h1 align="center">Hi 👋! My name is Meriton Aliu and I am from Switzerland🇨🇭</h1>
 
 ###
 
