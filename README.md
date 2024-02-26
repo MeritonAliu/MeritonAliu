@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">- [efmcore](https://github.com/MeritonAliu/efm32core)<br>- [weatherio](https://github.com/MeritonAliu/weatherio)<br>- [activfiler](https://github.com/MeritonAliu/activfilter)</p>
+<p align="left">- [efmcore](https://github.com/MeritonAliu/efm32core) <br>- [weatherio](https://github.com/MeritonAliu/weatherio) <br>- [activfiler](https://github.com/MeritonAliu/activfilter) </p>
 
 ###
 
