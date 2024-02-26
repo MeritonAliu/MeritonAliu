@@ -37,12 +37,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/meritonaliu/meritonaliu/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=meritonaliu.meritonaliu&"  />
 </div>
